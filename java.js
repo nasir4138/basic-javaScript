@@ -1,0 +1,14 @@
+var apple = 1000;
+var orange = 700;
+var total = apple + orange;
+console.log(total);
+var bangla = 75.25;
+var eng = 65;
+var math = 80;
+var science = 35.45 ;
+var islam = 99.50;
+var total = (bangla + eng + math + science + islam)/5 ;
+console.log(total.toFixed (2));
+var sampleInput = 119;
+var total = sampleInput%5;
+console.log(total);
